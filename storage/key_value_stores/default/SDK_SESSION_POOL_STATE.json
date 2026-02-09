@@ -1,0 +1,313 @@
+{
+  "usableSessionsCount": 5,
+  "retiredSessionsCount": 1,
+  "sessions": [
+    {
+      "id": "session_Lf2ejg68GK",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-02-09T12:32:26.692Z",
+      "createdAt": "2026-02-09T11:42:26.692Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_osXncxgME3",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "_gcl_au",
+            "value": "1.1.338132757.1770637352",
+            "expires": "2026-05-10T11:42:31.000Z",
+            "domain": "perfectgame.org",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-02-09T11:45:31.317Z",
+            "lastAccessed": "2026-02-09T11:46:10.922Z"
+          },
+          {
+            "key": "_gid",
+            "value": "GA1.2.2142693626.1770637352",
+            "expires": "2026-02-10T11:42:31.000Z",
+            "domain": "perfectgame.org",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-02-09T11:45:31.333Z",
+            "lastAccessed": "2026-02-09T11:46:10.922Z"
+          },
+          {
+            "key": "_gaclientid",
+            "value": "57233320.1770637350",
+            "expires": "2026-02-09T12:12:31.000Z",
+            "domain": "search.perfectgame.org",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-02-09T11:45:31.340Z",
+            "lastAccessed": "2026-02-09T11:46:10.922Z"
+          },
+          {
+            "key": "_gasessionid",
+            "value": "20260209|09535076",
+            "expires": "2026-02-09T12:12:31.000Z",
+            "domain": "search.perfectgame.org",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-02-09T11:45:31.340Z",
+            "lastAccessed": "2026-02-09T11:46:10.923Z"
+          },
+          {
+            "key": "_gahitid",
+            "value": "2026-02-09T16:42:31.902+05:00",
+            "expires": "2026-02-09T12:12:31.000Z",
+            "domain": "search.perfectgame.org",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-02-09T11:45:31.343Z",
+            "lastAccessed": "2026-02-09T11:46:10.925Z"
+          },
+          {
+            "key": "FPID",
+            "value": "FPID2.2.adlJK0ky5K5M1HwdZ%2B58hbe3G6M6982wFRC5LSOXs80%3D.1770637350",
+            "expires": "2027-03-16T11:45:25.011Z",
+            "domain": "perfectgame.org",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-02-09T11:45:31.343Z",
+            "lastAccessed": "2026-02-09T11:46:10.923Z"
+          },
+          {
+            "key": "_ga",
+            "value": "GA1.1.57233320.1770637350",
+            "expires": "2027-03-16T11:42:32.366Z",
+            "domain": "perfectgame.org",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-02-09T11:45:31.344Z",
+            "lastAccessed": "2026-02-09T11:46:10.924Z"
+          },
+          {
+            "key": "_fbp",
+            "value": "fb.1.1770637352510.460545795724335186",
+            "expires": "2026-05-10T11:42:32.000Z",
+            "domain": "perfectgame.org",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-02-09T11:45:31.344Z",
+            "lastAccessed": "2026-02-09T11:46:10.924Z"
+          },
+          {
+            "key": "_ga_P6B96JKHHF",
+            "value": "GS2.1.s1770637352$o1$g0$t1770637352$j60$l0$h0",
+            "expires": "2027-03-16T11:42:32.574Z",
+            "domain": "perfectgame.org",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-02-09T11:45:31.345Z",
+            "lastAccessed": "2026-02-09T11:46:10.925Z"
+          },
+          {
+            "key": "FPLC",
+            "value": "DKLrrX24r8KZz7%2BEhaTseLUVOvc7J0YNigqShRUzpuxeGs4y0fyqZRDUEALNxrqPsPY5Gz2qfVfJmGSIIc66grq0I99YAuTVmX1rcBDHpJj1eAAPgURJBVB4KBCQxA%3D%3D",
+            "expires": "2026-02-10T07:42:32.749Z",
+            "domain": "perfectgame.org",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-02-09T11:45:31.345Z",
+            "lastAccessed": "2026-02-09T11:46:10.924Z"
+          },
+          {
+            "key": "_tt_enable_cookie",
+            "value": "1",
+            "expires": "2027-03-06T11:42:32.000Z",
+            "domain": "perfectgame.org",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-02-09T11:45:31.345Z",
+            "lastAccessed": "2026-02-09T11:46:10.924Z"
+          },
+          {
+            "key": "_ttp",
+            "value": "01KH13BQW5YWZHGV44JFHM163B_.tt.1",
+            "expires": "2027-03-06T11:42:32.000Z",
+            "domain": "perfectgame.org",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-02-09T11:45:31.345Z",
+            "lastAccessed": "2026-02-09T11:46:10.924Z"
+          },
+          {
+            "key": "__qca",
+            "value": "P1-c50b7c79-1002-40c3-96db-85f0c2618048",
+            "expires": "2027-03-08T11:42:33.000Z",
+            "domain": "perfectgame.org",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-02-09T11:45:31.345Z",
+            "lastAccessed": "2026-02-09T11:46:10.924Z"
+          },
+          {
+            "key": "ttcsid",
+            "value": "1770637352843::WQKLHy2bllzBvogvEje6.1.1770637362854.0",
+            "expires": "2027-03-06T11:42:42.000Z",
+            "domain": "perfectgame.org",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-02-09T11:45:31.346Z",
+            "lastAccessed": "2026-02-09T11:46:10.925Z"
+          },
+          {
+            "key": "ttcsid_CCM6GQJC77UB4C8P3V9G",
+            "value": "1770637352842::m-wiVmUufdxAl4PZN1rL.1.1770637362856.1",
+            "expires": "2027-03-06T11:42:42.000Z",
+            "domain": "perfectgame.org",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-02-09T11:45:31.346Z",
+            "lastAccessed": "2026-02-09T11:46:10.925Z"
+          },
+          {
+            "key": "FPGSID",
+            "value": "1.1770637352.1770637475.G-5GPT3P49JC.aZCaLi3d8_1yCsbtiisvnA",
+            "expires": "2026-02-09T12:12:32.698Z",
+            "domain": "perfectgame.org",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-02-09T11:45:31.346Z",
+            "lastAccessed": "2026-02-09T11:46:10.925Z"
+          },
+          {
+            "key": "_ga_5GPT3P49JC",
+            "value": "GS2.1.s1770637350$o1$g1$t1770637529$j4$l0$h196850409",
+            "expires": "2027-03-16T11:45:29.342Z",
+            "domain": "perfectgame.org",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2026-02-09T11:45:31.346Z",
+            "lastAccessed": "2026-02-09T11:46:10.925Z"
+          },
+          {
+            "key": "_gat_UA-8391150-1",
+            "value": "1",
+            "expires": "2026-02-09T11:46:32.000Z",
+            "domain": "perfectgame.org",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2026-02-09T11:46:10.924Z",
+            "lastAccessed": "2026-02-09T11:46:10.924Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-02-09T12:32:26.700Z",
+      "createdAt": "2026-02-09T11:42:26.700Z",
+      "usageCount": 4,
+      "maxUsageCount": 50,
+      "errorScore": 6
+    },
+    {
+      "id": "session_Nl0J80daKA",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-02-09T12:35:30.338Z",
+      "createdAt": "2026-02-09T11:45:30.338Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_TIo2L8ONmE",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-02-09T12:36:10.417Z",
+      "createdAt": "2026-02-09T11:46:10.417Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_kGRFxygUPX",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-02-09T12:39:11.453Z",
+      "createdAt": "2026-02-09T11:49:11.453Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_TsMe9TUWqS",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-02-09T12:39:11.456Z",
+      "createdAt": "2026-02-09T11:49:11.456Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 1
+    }
+  ]
+}

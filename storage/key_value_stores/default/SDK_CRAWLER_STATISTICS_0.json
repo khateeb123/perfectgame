@@ -1,0 +1,61 @@
+{
+  "requestsFinished": 0,
+  "requestsFailed": 1,
+  "requestsRetries": 1,
+  "requestsFailedPerMinute": 0,
+  "requestsFinishedPerMinute": 0,
+  "requestMinDurationMillis": null,
+  "requestMaxDurationMillis": 0,
+  "requestTotalFailedDurationMillis": 181697,
+  "requestTotalFinishedDurationMillis": 0,
+  "crawlerStartedAt": "2026-02-09T11:42:26.614Z",
+  "crawlerFinishedAt": "2026-02-09T11:52:13.969Z",
+  "statsPersistedAt": "2026-02-09T11:52:13.969Z",
+  "crawlerRuntimeMillis": 587574,
+  "crawlerLastStartTimestamp": 1770637346395,
+  "requestRetryHistogram": [
+    null,
+    null,
+    null,
+    1
+  ],
+  "statsId": 0,
+  "requestAvgFailedDurationMillis": 181697,
+  "requestAvgFinishedDurationMillis": null,
+  "requestTotalDurationMillis": 181697,
+  "requestsTotal": 1,
+  "requestsWithStatusCode": {
+    "200": 4
+  },
+  "errors": {
+    "/home/dedezigner/Projects/pg-scraper/node_modules/@apify/timeout/cjs/index.cjs:64:68": {
+      "missing error code": {
+        "Error": {
+          "requestHandler timed out after 180 seconds.": {
+            "count": 1
+          }
+        }
+      }
+    }
+  },
+  "retryErrors": {
+    "/home/dedezigner/Projects/pg-scraper/node_modules/@apify/timeout/cjs/index.cjs:64:68": {
+      "missing error code": {
+        "Error": {
+          "requestHandler timed out after 180 seconds.": {
+            "count": 2
+          }
+        }
+      }
+    },
+    "/home/dedezigner/Projects/pg-scraper/scraper.js:75:28": {
+      "missing error code": {
+        "Error": {
+          "Data should not be empty or the \"fields\" option should be included": {
+            "count": 1
+          }
+        }
+      }
+    }
+  }
+}
